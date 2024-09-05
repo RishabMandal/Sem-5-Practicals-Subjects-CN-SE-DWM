@@ -1,0 +1,12 @@
+@relation Eg.1
+
+@attribute '﻿Student No.' numeric
+@attribute Name {Rishab,Ritik,Krish,Billa}
+@attribute Age numeric
+@attribute Gender {Male,FeMale}
+
+@data
+1,Rishab,19,Male
+2,Ritik,22,Male
+3,Krish,20,FeMale
+4,Billa,8,FeMale
